@@ -1,3 +1,5 @@
+# ---STREAKS---
+
 ### 27/05/2025
         -Operator Precedence
         -Type Conversions
@@ -7,7 +9,7 @@
         -Methods
         -Developer Fundamentals :
                 1.*Comment your code.*
-                2.*Understanding Data Structures*
+                2.*Understanding Data Structures.*
 
 ### 26/05/2025
         -Introduction to Python
