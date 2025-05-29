@@ -1,5 +1,10 @@
 # ---STREAKS---
 
+### 29/05/2025
+        -Solved some questions on W3School
+        -Learnt about PEP8 and Formatting.
+        -Learnt about setting up IDEs, Code Editors and Jupyter Notebook
+
 ### 28/05/2025 - 29/05/2025
         -Conditional Logic
         -Truthy and Falsy
