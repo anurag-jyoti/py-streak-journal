@@ -1,9 +1,27 @@
 # ---STREAKS---
 
+### 30/05/2025
+        -OOP Paradigm
+        -Attributes and Methods
+        -__init__
+        -@classmethod and @staticmethod
+        -Developer Fundamentals :
+                1.*Test your assumptions.*
+        -Encapsulation
+        -Abstraction
+        -Private Vs Public variables
+        -Inheritance
+        -Polymorphism
+        -super()
+        -Object Introspection
+        -Dunder methods
+        -Multiple Inheritance
+        -Method Resolution Order (MRO)
+
 ### 29/05/2025
-        -Solved some questions on W3School
+        -Solved some questions on W3Schools.
         -Learnt about PEP8 and Formatting.
-        -Learnt about setting up IDEs, Code Editors and Jupyter Notebook
+        -Learnt about setting up IDEs, Code Editors and Jupyter Notebook.
 
 ### 28/05/2025 - 29/05/2025
         -Conditional Logic
@@ -16,7 +34,7 @@
         -Functions
         -Arguments vs Parameters
         -Developer Fundamentals :
-                1.*What is good code ?* --> Clean, Readability, Predictability, Reusability
+                1.*What is good code ?* --> Clean, Readable, Predictable, Reusable
         -Methods vs Functions
         -Docstrings
         -Args and Kwargs
