@@ -1,5 +1,12 @@
 # ---STREAKS---
 
+### 31/05/2025
+        -Functional Programming
+        -Pure Functions
+        -map(), filter(), zip(), reduce()
+        -Lambda Expressions
+        -List, Set and Dictionary Comprehension
+
 ### 30/05/2025
         -OOP Paradigm
         -Attributes and Methods
