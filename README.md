@@ -1,5 +1,16 @@
 # ---STREAKS---
 
+### 1/06/2025 - 2/06/2025
+        -Decorators
+        -Higher Order Functions
+        -Decorator Patter :
+                -Accepting a function.
+                -Having a wrapper function.
+                -Calling the function.
+                -Returning the wrapper function.
+        -Error Handling
+        -Exceptions
+
 ### 31/05/2025
         -Functional Programming
         -Pure Functions
