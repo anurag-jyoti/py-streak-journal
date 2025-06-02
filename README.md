@@ -1,5 +1,13 @@
 # ---STREAKS---
 
+### 2/06/2025 - 3/06/2025
+        -Generators
+        -yield vs return
+        -Custom for and Custom range implementation
+        -fibonacci numbers using Generators
+        *Felt boring...just skimmed over the video, need to watch again sometime.
+        *But got quite an overview.
+
 ### 1/06/2025 - 2/06/2025
         -Decorators
         -Higher Order Functions
