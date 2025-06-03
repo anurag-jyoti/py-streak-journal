@@ -1,5 +1,8 @@
 # ---STREAKS---
 
+### 3/06/2025 - 4/06/2025
+        -<span style="color: red;">Couldn't complete today's streak...</span>
+
 ### 2/06/2025 - 3/06/2025
         -Generators
         -yield vs return
